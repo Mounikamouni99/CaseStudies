@@ -1,0 +1,5 @@
+com\qa\TestCases\TestCase1.class
+com\qa\Utilities\ExcelUtility.class
+com\qa\Utilities\Reporting.class
+com\qa\BaseTest\BaseTest.class
+com\qa\pages\Pages.class
